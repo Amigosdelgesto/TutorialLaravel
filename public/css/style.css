@@ -1,0 +1,29 @@
+header {
+	background: #f4726d;
+	width: 100%;
+	height: 100px;
+}
+h2 {
+	color: #777777;
+}
+h5 {
+	color: #6f6f6f;
+}
+a {
+	color: #f4726d;
+}
+footer {
+	background: #f4726d;
+	width: 100%;
+	height: 50px;
+}
+#main-content {
+	margin-top: 2%;
+}
+#title {
+	margin-top: 2%;
+}
+#image-laravel {
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
